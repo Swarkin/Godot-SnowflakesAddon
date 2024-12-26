@@ -2,4 +2,5 @@
 
 /.gitattributes export-ignore
 /preview.png    export-ignore
+/icon.png       export-ignore
 /README.md      export-ignore
